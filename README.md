@@ -17,7 +17,10 @@ to a 4 bit number, 0-15 thus:
 | ----- |-------|
 | bit 3 | bit 2 |
 
-Thus in the code:
+Convert that to a block chacter, do the same thing for all other bits in
+the character definition.
+
+So in the code:
 
 ![Alt text](code.png?raw=true "Text definition")
 
