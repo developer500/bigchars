@@ -15,3 +15,10 @@ to a 4 bit number, 0-15 thus:
 | ----- |-------|
 | bit 3 | bit 2 |
 
+Thus in the code:
+
+![Alt text](code.png?raw=true "Text definition")
+
+becomes:
+
+![Alt text](screen.gif?raw=true "ZX81 Screen")
