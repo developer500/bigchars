@@ -1,5 +1,7 @@
 # bigchars
-Z80 code for a ZX81 to "plot" large characters onto the screen
+Z80 code for a ZX81 to "plot" large characters onto the screen. This undoubtedly
+has been done before.
+
 
 Use m4 macro processing and z80asm assembler as part of z80dk to create a routine
 which converts ascii to "plot characters" on the screen.
